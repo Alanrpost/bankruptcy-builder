@@ -1,0 +1,4 @@
+samples/
+checks/
+uploads/
+*.backup-*.html
